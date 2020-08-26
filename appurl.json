@@ -1,0 +1,22 @@
+﻿{
+	"WebList": [{
+		"webName": "web1",
+		"WebUrl": [{
+			"WebTestUrl": "192.168.22.100",
+			"WebUrl": "http://192.168.22.100"
+		}, {
+			"WebTestUrl": "192.168.196.100",
+			"WebUrl": "http://192.168.196.100"
+		}]
+	}],
+	[{
+		"webName": "web2",
+		"WebUrl": [{
+			"WebTestUrl": "192.168.22.100",
+			"WebUrl": "http://192.168.22.100"
+		}, {
+			"WebTestUrl": "192.168.196.100",
+			"WebUrl": "http://192.168.196.100"
+		}]
+	}]
+}
